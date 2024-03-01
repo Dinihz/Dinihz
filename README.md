@@ -1,6 +1,7 @@
 Hey! It's Dinihz here. 
 
 * About me
+
 My name is Lucas Souza Diniz, and I live in Ribeirão das Neves, Minas Gerais - Brazil. I've been involved with technology since childhood, which has given me a natural aptitude for the field. Currently, I'm pursuing a degree in Information Systems at PUC MINAS. I'm also studying to become a UX/UI Designer and Front-End Developer, with plans to become a Full-Stack Developer throughout the year.
 
 * Skills
