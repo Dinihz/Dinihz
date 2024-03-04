@@ -1,4 +1,4 @@
-Hey! It's Dinihz here. 
+Hello! It's Dinihz here. 
 
 * About me
 
