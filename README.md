@@ -10,7 +10,7 @@ JavaScript, CSS, Figma, Git, Improving: React and TypeScript, learning NeoVim!
 
 Contact me
 
-[Linkedin]([https://github.com/Dinihz](https://www.linkedin.com/in/lucas-souza-diniz-556394280/))
+[Linkedin](https://www.linkedin.com/in/dinihz/)
 
 [E-mail](mailto:lucas87diniz@gmail.com)
 
