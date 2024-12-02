@@ -10,6 +10,8 @@ JavaScript, CSS, Figma, Git, Improving: React and TypeScript, learning NeoVim!
 
 * Contact me
 
-[Linkedin](https://www.linkedin.com/in/dinihz/) or E-mail: dinihzcontato@gmail.com
+    - [Linkedin](https://www.linkedin.com/in/dinihz/)  
+
+    - E-mail: dinihzcontato@gmail.com
 
 
