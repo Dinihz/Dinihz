@@ -6,8 +6,8 @@ Hello! It's Dinihz here.
 
 * Skills
 
-    - JavaScript, CSS, Figma, Git, Improving: React and TypeScript, learning NeoVim!
-
+    [![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,git,neovim,arch)](https://skillicons.dev)
+  
 * Contact me
 
     - [Linkedin](https://www.linkedin.com/in/dinihz/)  
