@@ -1,4 +1,4 @@
-Hello! It's Dinihz here. 
+# Hello! It's Dinihz here. 
 
 * About me
 
@@ -6,12 +6,4 @@ Hello! It's Dinihz here.
 
 * Skills
 
-    [![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,git,neovim,arch)](https://skillicons.dev)
-  
-* Contact me
-
-    - [Linkedin](https://www.linkedin.com/in/dinihz/)  
-
-    - E-mail: dinihzcontato@gmail.com
-
-
+    [![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,figma,git,neovim,arch,linux)](https://github.com/Dinihz)
