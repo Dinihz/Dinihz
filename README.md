@@ -1,23 +1,12 @@
-# Hello! It's Dinihz here. 
+### Hello, I'm Dinihz.
 
-### About me:
-
-<div align="center">
-    
-I'm a college student passionate about technology, constantly seeking to improve my skills through daily practice and project development. I am driven by a strong desire to learn, create, and grow, both academically and professionally.
-   
-
-
-</div>
-
-### Skills:
-
-<div align="center">
-    
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,docker,html,css,figma,git,neovim,linux)](https://github.com/Dinihz)
-
-[![Static Badge](https://img.shields.io/badge/linkedin-242938)](https://www.linkedin.com/in/dinihz/)
-[![Static Badge](https://img.shields.io/badge/email-242938)](mailto:dinihzcontato@gmail.com)
-</div>
+I'm a Full Stack developer focused on JavaScript and TypeScript, working mainly with Node.js, React, and Vue.js. As a Linux and Neovim enthusiast, I'm naturally curious and enjoy understanding how things work beyond the surface. My future focus is C, low-level programming, kernels, operating systems, systems design, and computer architecture.
 
 #
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-242938)](https://www.linkedin.com/in/dinihz/)
+[![Email](https://img.shields.io/badge/Email-242938)](mailto:dinihzcontato@gmail.com)
+
+</div>
