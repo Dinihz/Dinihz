@@ -14,6 +14,6 @@ You can check out my work here on GitHub, read my thoughts on my website, or rea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-242938)](https://www.linkedin.com/in/dinihz/)
 [![Email](https://img.shields.io/badge/Email-242938)](mailto:dinihzcontato@gmail.com)
-[![Website](https://img.shields.io/badge/My-Website-242938)](https://dinihz.com.br/)
+[![Website](https://img.shields.io/badge/Website-242938)](https://dinihz.com.br/)
 
 </div>
